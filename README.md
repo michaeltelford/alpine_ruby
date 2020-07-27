@@ -6,10 +6,9 @@ Includes the necessary linux packages to build native gems like `nokogiri` etc. 
 
 ## Versions
 
-- `alpine 3.4`
-- `ruby 2.4`
+The latest of both ruby and alpine will be used.
 
-Simply update the Dockerfile for later versions.
+Simply update the `Dockerfile` for specific versions.
 
 ## Usage
 
