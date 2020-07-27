@@ -1,4 +1,4 @@
-FROM ruby:2.4-alpine3.4
+FROM ruby:alpine
 MAINTAINER Michael Telford
 
 RUN apk --update add --virtual \
